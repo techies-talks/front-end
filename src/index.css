@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.actual-price-text{
+	color:gray;
+}
+.discount-text{
+	color:green;
+}
